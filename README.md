@@ -13,8 +13,8 @@
 - 🎓 Pursuing my bachelor degree as junior year information system student in Telkom University, Bandung
 - 🔭 Actively working as a data trainer
 - 🌱 Currently learning about Data Science, Web Development, Data Management, Ethical Hacking
-- 📖 Really eager to learn and passionate on Cloud Computing & Blockchain
-- 📽️ Doing photography & cinematografi as my hobby and side hustle 
+- 📖 Really eager to learn and passionate on Internet of Things, Cloud Computing & Blockchain
+- 📽️ Doing photography & cinematography as my hobby and side hustle 
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1ZZ1LIQX8QXe_I8y1lnDoTIhfapR081Bi/view?usp=drive_link)
 - 🏫 I really love if we can grow together, [let's connect](#lets-connect)
 
