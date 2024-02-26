@@ -4,10 +4,6 @@
 
 <img src="https://github.com/radyadhewa/radyadhewa/blob/main/images/header.png" alt="banner">
 
-<p>
-  I'm passionate about the use of technology to enhance efficiency in life and to empower people. That's why I love social projects! I believe in the power of multidisciplinary collaboration to achieve the greatest impact. As a result, I has also been involved in various fields such as Internet of Things, sociopreneur, and creative strategy.
-</p>
-
 <h3> About Me </h3>
 
 - 🎓 Pursuing my bachelor degree as junior year information system student in Telkom University, Bandung
