@@ -10,11 +10,12 @@ With 2+ years of experience turning tech trends into practical solutions through
 
 <h3> About </h3>
 
-- 💻 Working as AI Consultant & Engineer
-- 🔭 Actively sharing my knowledge as a speaker & trainer in Indonesia
-- 🌱 Passionate in Data, AI, Cloud Computing & Blockchain
-- 📜 IEEE Conference Paper: [PyABSA for Indonesian App Review Analysis](https://ieeexplore.ieee.org/document/11157354)
-- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1M2OqWfXqRsbCYK7jwBFGBObrF6nGrADa/view?usp=drive_link)
+- 🎓 Pursuing my bachelor degree as junior year information system student in Telkom University, Bandung
+- 🔭 Actively working as a data trainer
+- 🌱 Currently learning about Data Science, Web Development, Data Management, Ethical Hacking
+- 📖 Really eager to learn and passionate on Cloud Computing & Blockchain
+- 📽️ Doing photography & cinematografi as my hobby and side hustle
+- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1ZZ1LIQX8QXe_I8y1lnDoTIhfapR081Bi/view?usp=drive_link)
 - 🏫 I really love if we can grow together, [let's connect](#lets-connect)
 
 <h3> Tech Stack </h3>
@@ -74,7 +75,6 @@ Here are some ideas to get you started:
   ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-  ![Bourne Shell](https://img.shields.io/badge/-Bourne_Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 - 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -82,18 +82,11 @@ Here are some ideas to get you started:
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=333333)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 - ⚙️ &nbsp;
   ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-0078D4?style=flat&logo=jupyter&logoColor=white)
-  ![Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
