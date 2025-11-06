@@ -10,12 +10,11 @@ With 2+ years of experience turning tech trends into practical solutions through
 
 <h3> About </h3>
 
-- 🎓 Pursuing my bachelor degree as junior year information system student in Telkom University, Bandung
-- 🔭 Actively working as a data trainer
-- 🌱 Currently learning about Data Science, Web Development, Data Management, Ethical Hacking
-- 📖 Really eager to learn and passionate on Cloud Computing & Blockchain
-- 📽️ Doing photography & cinematografi as my hobby and side hustle
-- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1ZZ1LIQX8QXe_I8y1lnDoTIhfapR081Bi/view?usp=drive_link)
+- 💻 Working as AI Consultant & Engineer
+- 🔭 Actively sharing my knowledge as a speaker & trainer in Indonesia
+- 🌱 Passionate in Data, AI, Cloud Computing & Blockchain
+- 📜 IEEE Conference Paper: [PyABSA for Indonesian App Review Analysis](https://ieeexplore.ieee.org/document/11157354)
+- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1M2OqWfXqRsbCYK7jwBFGBObrF6nGrADa/view?usp=drive_link)
 - 🏫 I really love if we can grow together, [let's connect](#lets-connect)
 
 <h3> Tech Stack </h3>
@@ -27,8 +26,7 @@ Dhewa = {
         "Data": {
             "storage": ["MySql", "SQL Server", "MongoDB", "Firebase", "Databricks"],
             "visualization": ["Tableau", "SSRS", "PowerBI", "Looker"],
-            "orchestration": ["kafka", "airflow"],
-            "AI & ML": ["Azure", "Ollama", , "MLFlow"],
+            "orchestration": ["kafka", "airflow"]
         },
         "AI & ML":{
           "Domains": ["Agentic AI", "RAG", "Chatbot"],
@@ -92,3 +90,4 @@ Here are some ideas to get you started:
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
   ![Rocky Linux](https://img.shields.io/badge/-Rocky_Linux-8CC84B?style=flat&logo=rocky-linux&logoColor=white) -->
+
