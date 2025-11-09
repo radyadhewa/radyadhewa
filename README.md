@@ -1,56 +1,57 @@
 <img src="https://img.shields.io/github/followers/radyadhewa"> <img src="https://img.shields.io/youtube/channel/views/UCP8rFHpHe8oFZRF5lxl-YjA"> <img src="https://komarev.com/ghpvc/?username=radyadhewa">
 
 
-<h2> Hello, I'm Dhewa! 👋 </h2>
+<h2> Hello, I'm Dhewa Radya! 👋 </h2>
 
 
 <p>
-With 2+ years of experience turning tech trends into practical solutions through my work, funded initiatives, social projects, hackathons, and consulting. I have expertise in the full data pipeline, ensuring your data is ready to become intelligence such as AI solutions. I’m ready to help you explore problems and create meaningful impact.
+Experienced in turning tech trends into solutions through consulting, social projects, and hackathons. I have expertise in the full data pipeline, ensuring your data is ready to become intelligence such as AI. I’m ready to help you explore problems and create impact.
 </p>
 
 <h3> About </h3>
 
 - 💻 Working as AI Consultant & Engineer
 - 🔭 Actively sharing my knowledge as a speaker & trainer in Indonesia
-- 🌱 Passionate in Data, AI, Cloud Computing & Blockchain
 - 📜 IEEE Conference Paper: [PyABSA for Indonesian App Review Analysis](https://ieeexplore.ieee.org/document/11157354)
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1M2OqWfXqRsbCYK7jwBFGBObrF6nGrADa/view?usp=drive_link)
-- 🏫 I really love if we can grow together, [let's connect](#lets-connect)
+- 🏫 I really love if we can grow together, [let's connect](https://www.linkedin.com/in/radyadhewa/)
 
-<h3> Tech Stack </h3>
-
-```python
-Dhewa = {
-    "learnWithMeAbout": ["Data, AI"],
-    "technologies": {
-        "Data": {
-            "storage": ["MySql", "SQL Server", "MongoDB", "Firebase", "Databricks"],
-            "visualization": ["Tableau", "SSRS", "PowerBI", "Looker"],
-            "orchestration": ["kafka", "airflow"]
-        },
-        "AI & ML":{
-          "Domains": ["Agentic AI", "RAG", "Chatbot"],
-          "Tools":["Ollama", "n8n", "UI Path", "Tensorflow", "PyTorch", "MLFlow"],
-          "Architecture": ["Azure AI Foundry", "GCP Vertex AI"]
+<details align="center" id="details">
+    <h3> Tech Stack </h3>
+    
+    ```python
+    Dhewa = {
+        "learnWithMeAbout": ["Data, AI"],
+        "technologies": {
+            "Data": {
+                "storage": ["MySql", "SQL Server", "MongoDB", "Firebase", "Databricks"],
+                "visualization": ["Tableau", "SSRS", "PowerBI", "Looker"],
+                "orchestration": ["kafka", "airflow"]
+            },
+            "AI & ML":{
+              "Domains": ["Agentic AI", "RAG", "Chatbot"],
+              "Tools":["Ollama", "n8n", "UI Path", "Tensorflow", "PyTorch", "MLFlow"],
+              "Architecture": ["Azure AI Foundry", "GCP Vertex AI"]
+            }
+            "Cloud": ["Azure", "Alibaba", "GCP"],
+            "App & Web": ["Laravel", "NextJS", "Kotlin"],
+            "Code": ["Python", "Java", "Matlab", "Shell scripting"]
         }
-        "Cloud": ["Azure", "Alibaba", "GCP"],
-        "App & Web": ["Laravel", "NextJS", "Kotlin"],
-        "Code": ["Python", "Java", "Matlab", "Shell scripting"]
     }
-}
-```
+    ```
+    
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radyadhewa&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="radyadhewa's Top Languages" width="49%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=radyadhewa&show_icons=true&theme=radical" alt="Dhewa's GitHub stats" width="49%"/>
+    </p>
+    
+    
+    <h3 id="lets-connect"> Let's Connect </h3>
+    
+    - 📧 Email: [radyadhewa@gmail.com](mailto:YourEmail@example.com)
+    - 💼 LinkedIn: [radyadhewa](https://www.linkedin.com/in/radyadhewa)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radyadhewa&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="radyadhewa's Top Languages" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=radyadhewa&show_icons=true&theme=radical" alt="Dhewa's GitHub stats" width="49%"/>
-</p>
-
-
-<h3 id="lets-connect"> Let's Connect </h3>
-
-- 📧 Email: [radyadhewa@gmail.com](mailto:YourEmail@example.com)
-- 💼 LinkedIn: [radyadhewa](https://www.linkedin.com/in/radyadhewa)
-
+</details>
 
 <!--
 **radyadhewa/radyadhewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
