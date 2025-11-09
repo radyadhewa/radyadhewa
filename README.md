@@ -16,42 +16,41 @@ Experienced in turning tech trends into solutions through consulting, social pro
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1M2OqWfXqRsbCYK7jwBFGBObrF6nGrADa/view?usp=drive_link)
 - 🏫 I really love if we can grow together, [let's connect](https://www.linkedin.com/in/radyadhewa/)
 
-<details align="center" id="details">
-    <h3> Tech Stack </h3>
-    
-    ```python
-    Dhewa = {
-        "learnWithMeAbout": ["Data, AI"],
-        "technologies": {
-            "Data": {
-                "storage": ["MySql", "SQL Server", "MongoDB", "Firebase", "Databricks"],
-                "visualization": ["Tableau", "SSRS", "PowerBI", "Looker"],
-                "orchestration": ["kafka", "airflow"]
-            },
-            "AI & ML":{
-              "Domains": ["Agentic AI", "RAG", "Chatbot"],
-              "Tools":["Ollama", "n8n", "UI Path", "Tensorflow", "PyTorch", "MLFlow"],
-              "Architecture": ["Azure AI Foundry", "GCP Vertex AI"]
-            }
-            "Cloud": ["Azure", "Alibaba", "GCP"],
-            "App & Web": ["Laravel", "NextJS", "Kotlin"],
-            "Code": ["Python", "Java", "Matlab", "Shell scripting"]
-        }
-    }
-    ```
-    
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radyadhewa&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="radyadhewa's Top Languages" width="49%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=radyadhewa&show_icons=true&theme=radical" alt="Dhewa's GitHub stats" width="49%"/>
-    </p>
-    
-    
-    <h3 id="lets-connect"> Let's Connect </h3>
-    
-    - 📧 Email: [radyadhewa@gmail.com](mailto:YourEmail@example.com)
-    - 💼 LinkedIn: [radyadhewa](https://www.linkedin.com/in/radyadhewa)
+<h3> Tech Stack </h3>
 
-</details>
+```python
+Dhewa = {
+    "learnWithMeAbout": ["Data, AI"],
+    "technologies": {
+        "Data": {
+            "storage": ["MySql", "SQL Server", "MongoDB", "Firebase", "Databricks"],
+            "visualization": ["Tableau", "SSRS", "PowerBI", "Looker"],
+            "orchestration": ["kafka", "airflow"]
+        },
+        "AI & ML":{
+          "Domains": ["Agentic AI", "RAG", "Chatbot"],
+          "Tools":["Ollama", "n8n", "UI Path", "Tensorflow", "PyTorch", "MLFlow"],
+          "Architecture": ["Azure AI Foundry", "GCP Vertex AI"]
+        }
+        "Cloud": ["Azure", "Alibaba", "GCP"],
+        "App & Web": ["Laravel", "NextJS", "Kotlin"],
+        "Code": ["Python", "Java", "Matlab", "Shell scripting"]
+    }
+}
+```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radyadhewa&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="radyadhewa's Top Languages" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radyadhewa&show_icons=true&theme=radical" alt="Dhewa's GitHub stats" width="49%"/>
+</p>
+
+
+<h3 id="lets-connect"> Let's Connect </h3>
+
+- 📧 Email: [radyadhewa@gmail.com](mailto:YourEmail@example.com)
+- 💼 LinkedIn: [radyadhewa](https://www.linkedin.com/in/radyadhewa)
+
+
 
 <!--
 **radyadhewa/radyadhewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
