@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/followers/radyadhewa"> <img src="https://img.shields.io/youtube/channel/views/UCP8rFHpHe8oFZRF5lxl-YjA"> <img src="https://komarev.com/ghpvc/?username=radyadhewa">
+<img src="https://img.shields.io/youtube/channel/views/UCP8rFHpHe8oFZRF5lxl-YjA"> <img src="https://komarev.com/ghpvc/?username=radyadhewa">
 
 
 <h2> Hello, I'm Dhewa Radya! 👋 </h2>
