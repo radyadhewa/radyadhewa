@@ -16,7 +16,8 @@ Experienced in turning tech trends into solutions through consulting, social pro
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1M2OqWfXqRsbCYK7jwBFGBObrF6nGrADa/view?usp=drive_link)
 - 🏫 I really love if we can grow together, [let's connect](https://www.linkedin.com/in/radyadhewa/)
 
-<h3> Tech Stack </h3>
+<details>
+<summary> Tech Stack </summary>
 
 ```python
 Dhewa = {
@@ -39,18 +40,21 @@ Dhewa = {
 }
 ```
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radyadhewa&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="radyadhewa's Top Languages" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=radyadhewa&show_icons=true&theme=radical" alt="Dhewa's GitHub stats" width="49%"/>
 </p>
 
+</details>
 
-<h3 id="lets-connect"> Let's Connect </h3>
+<details>
+<summary> Let's connect </summary>
 
 - 📧 Email: [radyadhewa@gmail.com](mailto:YourEmail@example.com)
 - 💼 LinkedIn: [radyadhewa](https://www.linkedin.com/in/radyadhewa)
 
-
+</details>
 
 <!--
 **radyadhewa/radyadhewa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
