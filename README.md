@@ -1,11 +1,11 @@
 <img src="https://img.shields.io/youtube/channel/views/UCP8rFHpHe8oFZRF5lxl-YjA"> <img src="https://komarev.com/ghpvc/?username=radyadhewa">
 
 
-<h2> Hello, I'm Dhewa Radya! 👋 </h2>
+<h2>A fan of Python and Pitching <img src="https://emojis.slackmojis.com/emojis/images/1709217340/89730/hello-hi-doggo.gif?1709217340" width="30"/></h2>
 
 
 <p>
-Experienced in turning tech trends into solutions through consulting, social projects, and hackathons. I have expertise in the full data pipeline, ensuring your data is ready to become intelligence such as AI. I’m ready to help you explore problems and create impact.
+Experienced in turning tech trends into solutions through consulting, social projects, and hackathons. <b>Build it, ship it!</b>
 </p>
 
 <h3> About </h3>
