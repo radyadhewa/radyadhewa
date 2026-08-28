@@ -12,7 +12,8 @@ Experienced in turning tech trends into solutions through consulting, social pro
 
 - 💻 Working as AI Consultant & Engineer
 - 🔭 Actively sharing my knowledge as a speaker & trainer in Indonesia
-- 📜 IEEE Conference Paper: [PyABSA for Indonesian App Review Analysis](https://ieeexplore.ieee.org/document/11157354)
+- 🖊️ IEEE Conference Paper: [PyABSA for Indonesian App Review Analysis](https://ieeexplore.ieee.org/document/11157354)
+- 📜 Certified in: Azure AI (AI-102 & AI-900), Nutanix NCA 6, BNSP Data Science & Analytics, Alibaba Cloud (ACA Cloud & Business)
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1M2OqWfXqRsbCYK7jwBFGBObrF6nGrADa/view?usp=drive_link)
 - 🏫 I really love if we can grow together, [let's connect](https://www.linkedin.com/in/radyadhewa/)
 
